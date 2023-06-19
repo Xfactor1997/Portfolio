@@ -3,7 +3,7 @@
 
 
 
-header('Access-Control-Allow-Origin:https://markgamal.netlify.app/');
+header('Access-Control-Allow-Origin:index.html');
 header('Access-Control-Allow-Methods: GET, POST');
 header('Access-Control-Allow-Headers: Content-Type');
 // $name = $_POST["name"];
