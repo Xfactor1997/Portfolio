@@ -374,6 +374,7 @@ span{
 }
 .education-content .content p a{
     text-decoration: none;
+    color:white;
 }
 .education-content .content p a:hover {
     color: lightgreen;
