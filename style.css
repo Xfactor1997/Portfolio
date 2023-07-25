@@ -372,6 +372,12 @@ span{
     font-size: 1.6rem;
     padding-top: .5rem;
 }
+.education-content .content p a{
+    text-decoration: none;
+}
+.education-content .content p a:hover {
+    color: lightgreen;
+}
 .skills {
     min-height: auto;
     padding-bottom: 7rem;
