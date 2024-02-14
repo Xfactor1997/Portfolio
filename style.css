@@ -520,6 +520,7 @@ span{
     width: 100%;
     height: 100%;
     padding: 1.5rem;
+    font-size: 1.6rem;
     color: var(--text-color);
     background: transaprent;
     border: .2rem solid var(--main-color);
